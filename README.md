@@ -37,6 +37,7 @@ Similarly assign a variable `number_of_children` by asking a question (like "Giv
 For each child, ask the age of the child to the user similarly using the `input()` function and calculate the total benefit amount.
 
 The description of Exercise 2 from last week:
+
 Situation: Citizens apply for financial benefits from the government whose policy is to grant government employee benefits for only 2 of his children, 1.000Euro for each child if he/she is less than or equal to 20 years old.
 - Write a set of codes using the conditional statements (if, else, elif) that checks the following conditions:
 - If citizen's occupation is a government employee, check if he has kids eligible for benefits, calculate the total benefit amount
