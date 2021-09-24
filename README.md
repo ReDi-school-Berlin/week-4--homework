@@ -27,6 +27,22 @@ Create a function that produces a random integer integer between (0,100) and ask
 If the user guessed the number correctly, it prints "That's right! You guessed it! Congrats"
 If the user could not guess it right, it prints "I'm sorry, but that's not correct."
 
+--------------------------------------
+## Bonus Exercise:
+
+This exercise is totally optional, but you can do it if you are up for a challenge. 
+Remember the Exercise 2 from week 3 homework? Let's do it using an `input()` function this time. 
+Assign a variable called `occupation` using the `input()` function, using a description to print, like "What is your occupation?".
+Similarly assign a variable `number_of_children` by asking a question (like "Give number of children")  to the user using the `input()` function. 
+For each child, ask the age of the child to the user similarly using the `input()` function and calculate the total benefit amount.
+
+The description of Exercise 2 from last week:
+Situation: Citizens apply for financial benefits from the government whose policy is to grant government employee benefits for only 2 of his children, 1.000Euro for each child if he/she is less than or equal to 20 years old.
+- Write a set of codes using the conditional statements (if, else, elif) that checks the following conditions:
+- If citizen's occupation is a government employee, check if he has kids eligible for benefits, calculate the total benefit amount
+- If citizen's occupation is an entrepreneur, output the message "You make sure you pay your tax!"
+- If citizen has other occupation, output the message "This facility is only for government employees!"
+- At the end output the message "Total benefit availed: " and total benefit amount
 ---------------------------------------
 ### What you need to do to publish your code
 1. Download (clone) this repository to your computer by clicking on Code, copying the URL from there and then putting the following command in VSCode terminal: `git clone {url_you_copied}`
