@@ -1,15 +1,17 @@
-# Homework for Week 3
+# Homework for Week 4
 _(Scroll down for some reminder on cloning this repository and making commits)_
 
 ## Exercises:
+
+For all the exercises below, test your function by calling it (if it has parameters, test it with different arguments).
 ### Exercise 1
-Write a function to check if a number is in a given range 
+Write a function to check if a number is in a given range. (Hint: you need 3 parameters, 2 for defining the range, 1 for the number you want to check.)
 Example: Given the range 4 to 10, check if 5 is included.
 The expected result is True.
 You could also return a phrase like, “The number 5 is included in the range”
 
 ### Exercise 2
-Create a function that will help us what to take with us by giving the weather
+Create a function that will help us what to take with us by giving the weather. (So the function has a parameter called weather.)
 Examples:
 - If it’s sunny, your function will return “Take sunglasses”
 - If it’s raining, your function will return “Take umbrella”
